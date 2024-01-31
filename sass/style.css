@@ -225,7 +225,7 @@ input {
 }
 
 .attribution {
-  position: relative;
+  margin-inline: auto;
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   width: -moz-fit-content;
