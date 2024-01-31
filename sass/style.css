@@ -225,10 +225,7 @@ input {
 }
 
 .attribution {
-  position: absolute;
-  transform: translateX(-50%);
-  left: 50%;
-  bottom: 0;
+  position: relative;
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   width: -moz-fit-content;
