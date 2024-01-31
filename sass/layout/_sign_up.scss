@@ -219,10 +219,7 @@ input {
 }
 
 .attribution {
-  position: absolute;
-  transform: translateX(-50%);
-  left: 50%;
-  bottom: 0;
+  position: relative;
   background-color: $n-White;
   text-align: center;
   width: fit-content;
